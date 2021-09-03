@@ -1,5 +1,5 @@
 {
-  "name": "compras-backend",
+  "name": "ws-store",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "clean": "rimraf dist",
     "seed": "cross-env npx babel-node ./lib/infrastructure/orm/typeorm/seeds"
   },
-  "author": "Nahuel Salto",
+  "author": "CodeCave",
   "license": "ISC",
   "devDependencies": {
     "@babel/node": "^7.15.4",
